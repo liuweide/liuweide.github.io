@@ -123,14 +123,14 @@
   </url>
   
   <url>
-    <loc>http://liu-we.gitee.io/tags/spring/</loc>
+    <loc>http://liu-we.gitee.io/tags/locked/</loc>
     <lastmod>2021-02-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://liu-we.gitee.io/tags/locked/</loc>
+    <loc>http://liu-we.gitee.io/tags/spring/</loc>
     <lastmod>2021-02-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
