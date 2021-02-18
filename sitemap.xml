@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://liu-we.gitee.io/2021/02/18/javaWeb-%E5%9B%9B%E5%A4%A7%E5%9F%9F%E5%AF%B9%E8%B1%A1%E6%80%BB%E7%BB%93/</loc>
+    <loc>http://liu-we.gitee.io/2021/02/16/%E5%9F%BA%E4%BA%8Ejava%E7%9A%84jsoup%E7%88%AC%E5%8F%96%E4%BF%84%E8%AF%AD%E8%AE%BA%E5%9D%9B%E8%AF%84%E8%AE%BA/</loc>
     
     <lastmod>2021-02-18</lastmod>
     
   </url>
   
   <url>
-    <loc>http://liu-we.gitee.io/2021/02/16/%E5%9F%BA%E4%BA%8Ejava%E7%9A%84jsoup%E7%88%AC%E5%8F%96%E4%BF%84%E8%AF%AD%E8%AE%BA%E5%9D%9B%E8%AF%84%E8%AE%BA/</loc>
+    <loc>http://liu-we.gitee.io/2021/02/18/javaWeb-%E5%9B%9B%E5%A4%A7%E5%9F%9F%E5%AF%B9%E8%B1%A1%E6%80%BB%E7%BB%93/</loc>
     
-    <lastmod>2021-02-16</lastmod>
+    <lastmod>2021-02-18</lastmod>
     
   </url>
   
@@ -95,13 +95,6 @@
 
   
   <url>
-    <loc>http://liu-we.gitee.io/tags/Servlet/</loc>
-    <lastmod>2021-02-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://liu-we.gitee.io/tags/Mybatis/</loc>
     <lastmod>2021-02-18</lastmod>
     <changefreq>daily</changefreq>
@@ -117,6 +110,13 @@
   
   <url>
     <loc>http://liu-we.gitee.io/tags/github/</loc>
+    <lastmod>2021-02-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liu-we.gitee.io/tags/Servlet/</loc>
     <lastmod>2021-02-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -158,6 +158,13 @@
   </url>
   
   <url>
+    <loc>http://liu-we.gitee.io/tags/jsoup/</loc>
+    <lastmod>2021-02-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://liu-we.gitee.io/tags/DeepLearning/</loc>
     <lastmod>2021-02-18</lastmod>
     <changefreq>daily</changefreq>
@@ -165,13 +172,6 @@
   </url>
   
 
-  
-  <url>
-    <loc>http://liu-we.gitee.io/categories/java/</loc>
-    <lastmod>2021-02-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>http://liu-we.gitee.io/categories/%E5%90%8E%E7%AB%AF/</loc>
@@ -188,6 +188,13 @@
   </url>
   
   <url>
+    <loc>http://liu-we.gitee.io/categories/java/</loc>
+    <lastmod>2021-02-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://liu-we.gitee.io/categories/locked/</loc>
     <lastmod>2021-02-18</lastmod>
     <changefreq>daily</changefreq>
@@ -196,6 +203,13 @@
   
   <url>
     <loc>http://liu-we.gitee.io/categories/Hexo/</loc>
+    <lastmod>2021-02-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liu-we.gitee.io/categories/%E7%88%AC%E8%99%AB/</loc>
     <lastmod>2021-02-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
